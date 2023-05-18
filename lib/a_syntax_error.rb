@@ -1,3 +1,1 @@
-x = 1
-
-x = 
+puts "This is a valid code"

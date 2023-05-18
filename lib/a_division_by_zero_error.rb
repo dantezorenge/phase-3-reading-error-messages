@@ -1,3 +1,9 @@
-42 / 6
+numerator = 10
+denominator = 2
 
-42 / 0
+if denominator != 0
+  result = numerator / denominator
+  puts result
+else
+  puts "Cannot divide by zero"
+end

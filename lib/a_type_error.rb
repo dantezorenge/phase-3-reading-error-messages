@@ -1,3 +1,4 @@
-1 + 1
-
-1 + "is the loneliest number"
+num1 = 10
+num2 = 5
+result = num1 + num2
+puts result
